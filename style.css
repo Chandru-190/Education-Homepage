@@ -1,0 +1,106 @@
+*
+{
+    margin: 0; padding: 0;
+}
+h2 a{
+    margin-left: 20px;
+    }
+a:hover{
+    background-color: green;
+    color: white;
+    opacity: 0.5;
+}
+body{
+    color: white;
+    border: rgb(134, 42, 42);
+    background: linear-gradient(155deg,#c33131 0%, #731690 80%);
+    }
+table{ 
+    margin-left: 500px;
+    margin-top: 200px;
+    width: 500px;
+    height: 100px;
+    padding: 10px 20px;
+    }
+.n1{
+    background-color: rgb(32 ,135 , 135);
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    }
+table .n1:hover{
+    background-color: black;
+}
+.n2{
+    background-color: rgb(32, 65, 136);
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+table .n2:hover{
+    background-color: red;
+    color: white;
+    opacity: 0.5;
+}
+.n3{
+    background-color: violet;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+table .n3:hover{
+    background-color: brown;
+    color: #aa3b3b;
+    opacity: 0.5;
+}
+.n4{
+    background-color: brown;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+table .n4:hover{
+    background-color: brown;
+    color: #aa3b3b;
+    opacity: 0.5;
+}
+.n5{
+    background-color: chartreuse;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+table .n5:hover{
+    background-color: violet;
+    color: red;
+    opacity: 0.5;
+}
+.n6{
+    background-color:darkgoldenrod;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+table .n6:hover{
+    background-color: brown;
+    color: #aa3b3b;
+    opacity: 0.5;
+}
+.n7{
+    background-color: deeppink;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+.n8{
+    background-color: maroon;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+.n9{
+    background-color: gold;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
